@@ -1,4 +1,6 @@
-### Hello there 👋 I am Jhon
+### Hello there 👋 I am Jhon Zafra
+
+Welcome to my repository. I am a engineer willing to work in data projects. 
 
 - 🌱 I’m currently learning statistics for data analysis.
 - 🌱 Enthusiastic about cloud computing and machine learning. 
